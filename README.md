@@ -20,8 +20,12 @@ The Music Royalty Token (MRT) converts music royalty entitlements into programma
 |---|---|
 | Language | Solidity ^0.8.20 |
 | Token Standard | ERC-20 (manual implementation) |
+| Token Name | Taylor Swift Royalty-Lover |
+| Token Symbol | TST-LVR |
 | Network | Sepolia Testnet |
+| Contract Address | 0xca26F0e94271b12E736703D970F09d8a54CD2B40 |
 | Decimals | 18 |
+| Total Supply | 1,000,000 TST-LVR |
 
 ## Deployment
 
@@ -31,10 +35,10 @@ The contract was deployed and tested using **Remix IDE** on the **Sepolia testne
 
 | Parameter | Type | Description |
 |---|---|---|
-| `_name` | string | Token name (e.g. `"Royalty – Midnight Drive"`) |
-| `_symbol` | string | Token symbol (e.g. `"MRT-MD"`) |
-| `_songTitle` | string | Human-readable song identifier |
-| `_supply` | uint256 | Total supply in whole tokens (decimals added automatically) |
+| `_name` | string | Token name (e.g. `"Taylor Swift Royalty-Lover"`) |
+| `_symbol` | string | Token symbol (e.g. `"TST-LVR"`) |
+| `_songTitle` | string | Human-readable song identifier (e.g. `"Lover"`) |
+| `_supply` | uint256 | Total supply in whole tokens (e.g. `1000000`) |
 
 ## Key Functions
 
