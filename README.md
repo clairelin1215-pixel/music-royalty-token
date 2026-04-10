@@ -82,10 +82,3 @@ Music Streaming Revenue
 - **Smart contract** — bugs in distribution or redemption logic could lock funds
 - **Liquidity** — AMM pool depth depends on market participation; lesser-known artists may face wide spreads
 
-## Academic Context
-
-This project was developed as individual coursework for:
-
-> **IFTE0007 – Decentralised Finance and Blockchain**
-> Asset Tokenisation Design (60%)
-> Submission deadline: 10 April 2026
